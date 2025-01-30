@@ -5,6 +5,10 @@ body{
     background-color: lightgray;
 }
 
+#title{
+    padding-left: 40px;
+}
+
 .list{
     
     max-width: 550px;
@@ -24,7 +28,7 @@ img {
     object-fit: contain;
   }
 
-  li{
+  .menu{
     list-style-type: none;
   }
 
